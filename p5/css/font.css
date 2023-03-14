@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: Base;
+  src: url(fonts/Teko-Regular.ttf)
+}
+@font-face {
+  font-family: BaseB;
+  src: url(fonts/Teko-SemiBold.ttf)
+}
+@font-face {
+  font-family: Nanum;
+  src: url(fonts/NanumGothic-Regular.ttf)
+}
+@font-face {
+  font-family: NanumB;
+  src: url(fonts/NanumGothic-Bold.ttf)
+}
+body {font-family: Base, sans-serif}
+.ko {font-family: Nanum}
+.ko-title, b, strong, h3, h4, h5, h6 {font-family: NanumB}
+ fote wieght
+
+
+
+
+
+
+
